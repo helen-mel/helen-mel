@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning : Software Development
 
-- 📫 How to reach me : here on github
+- 📫 How to reach me : [Here on github](https://github.com/helen-mel)
+
+- 🤔 I’m looking for help with : getting my first job as an it professional
 
 
 <!--
