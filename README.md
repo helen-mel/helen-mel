@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
+- 🌱 I’m currently learning : Software Development
+
+- 📫 How to reach me : here on github
+
+
 <!--
 **helen-mel/helen-mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
